@@ -1,9 +1,7 @@
-# Mac mini M1 hybrid concept H1
+# Mac mini M1 · Атлас конструкції
 
-Interactive concept: https://dvaderfun.github.io/mac-mini-m1-case-prototype/?mode=hybrid
+[Інтерактивна 3D-модель C5R-D1](https://dvaderfun.github.io/mac-mini-m1-case-prototype/) · [задня панель](https://dvaderfun.github.io/mac-mini-m1-case-prototype/?view=rear) · [касета CMTPD та Mini-560](https://dvaderfun.github.io/mac-mini-m1-case-prototype/?view=power) · [альтернативна PCB v1](https://dvaderfun.github.io/mac-mini-m1-case-prototype/?view=pcb).
 
-Mechanical V1: independent tray mounts, removable hybrid bottom, reinforced sheet ledge and integral feet, with reference hardware. Published for digital design review, not a finished powered enclosure. Printing is deferred until the detailed design. See [status and attribution](about.html).
+Корпус, штатний вузол Mac, порти, антени й тримачі — цифровий прототип для холодної примірки. Фізичної посадки, електричного, теплового та RF-приймання не було. Кастомна PCB v1 не входить у D1. Збережений index.html відкривається також офлайн; моделі, код і запасні зображення вбудовані.
 
-Original design: [SnazzyLabs, Printables139893](https://www.printables.com/model/139893-shrink-the-m1-mac-mini), Creative Commons Attribution Noncommercial (version not exposed by source label). Source geometry and the embedded guide image keep those terms. Native prototype geometry and explanatory UI are separately identified. Three.js MIT licence is embedded in index.html.
-
-Only the static viewer, status page and preview image are published. No local workspace files, test logs or machine GCODE.
+[Історичний перегляд H1](h1/?mode=hybrid) та його старі прямі посилання збережено. [Джерела, авторство й ліцензії](ATTRIBUTION.md).

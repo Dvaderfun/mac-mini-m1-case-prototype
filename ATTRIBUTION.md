@@ -1,7 +1,7 @@
-# Attribution
+# Джерела та ліцензії
 
-Original source: SnazzyLabs (Snazzy Labs / Quinn Nelson), [Shrink the M1 Mac mini!, Printables model139893](https://www.printables.com/model/139893-shrink-the-m1-mac-mini).
+Корпус, панелі, рейка та планка D1 — геометрія SolidCraft проєкту C5R-D1. Механічні референси плати Mac, штатного радіатора, портів, антен і внутрішнього лотка: SnazzyLabs (Quinn Nelson), [Shrink the M1 Mac mini!, Printables 139893](https://www.printables.com/model/139893-shrink-the-m1-mac-mini). Позначка ліцензії джерела — Creative Commons Attribution Noncommercial (CC BY-NC); версію не вказано. Ці умови та авторство зберігаються для похідної геометрії та зображень. Для огляду додано кольорові області, ілюстративні нутрощі роз’ємів, підписи й рознесені види.
 
-Source licence label: Creative Commons Attribution Noncommercial. The retrieved label does not specify a version; no unverified version is assigned. The source geometry and guide image embedded in the viewer remain subject to these terms.
+Альтернативна PCB v1: Yulii Maievskyi, проєкт KiCad; в атласі показано контур та габаритні моделі з C5R. Ця плата не встановлена у D1. CMTPD 483069554 та Mini-560 398197737: габарити продавця Radio Construct / Rozetka; дрібні елементи — власні ілюстрації за фото, не заводський CAD.
 
-This site combines that reference with separately labelled SolidCraft prototypes, hybrid H1 concept parts and explanatory viewer code. The displayed geometry is not an approved physical or electrical design. Three.js is distributed under its MIT licence, preserved inside index.html.
+Історичний H1: геометрія та зображення інструкції SnazzyLabs з тими самими умовами. Three.js — MIT, текст ліцензії вбудовано в обидві HTML-сторінки.
