@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="540" viewBox="0 0 760 540" role="img" aria-labelledby="d24st d24sd">
+ <title id="d24st">Задня панель D2.4: розріз через середину Thunderbolt</title>
+ <desc id="d24sd">Переріз експортованих стінки та гнізда в одному масштабі. Пластик облягає гніздо з боків і лежить позаду лицьової площини. Велике плече показаного схематично кабелю залишається зовні.</desc>
+ <defs><pattern id="d24hatch" width="8" height="8" patternUnits="userSpaceOnUse"><rect width="8" height="8" fill="#dec59b"/><path d="M-2 2 2-2 M0 8 8 0 M6 10 10 6" stroke="#b99c72" stroke-width="1"/></pattern>
+ <clipPath id="d24sectionclip"><rect x="38" y="107" width="382" height="322" rx="6"/></clipPath>
+ <style>text{font:16px 'Segoe UI',Arial,sans-serif;fill:#263c32}.ey{font-size:12px;font-weight:650;letter-spacing:1.3px}.head{font-size:26px;font-weight:650}.name{font-size:17px;font-weight:650}.note{font-size:13px}.big{font-size:23px;font-weight:650;fill:#315e49}.label{font-size:14px;font-weight:600}</style></defs>
+ <rect width="760" height="540" fill="#f7f7f1" rx="10"/>
+ <text x="30" y="32" class="ey" text-anchor="start">D2.4  /  ЗАДНЯ ПАНЕЛЬ  /  РОЗРІЗ ЧЕРЕЗ THUNDERBOLT</text>
+ <text x="30" y="70" class="head" text-anchor="start">Гніздо виходить у площину панелі</text>
+ <path d="M30 86H730" stroke="#bdc8bc"/><rect x="30" y="99" width="399" height="342" fill="#edf1e8" rx="8"/>
+ <g clip-path="url(#d24sectionclip)">
+ <path d="M269.00,123.39 L269.00,99.28 L210.80,99.28 L210.80,123.39 L210.80,150.50 L239.90,150.50 L269.00,150.50 Z M269.00,440.56 L269.00,418.08 L269.00,417.18 L269.00,410.84 L269.00,402.96 L269.00,389.50 L239.90,389.50 L210.80,389.50 L210.80,404.08 L210.80,418.42 L210.80,419.04 L210.80,431.84 L210.80,436.21 L210.80,440.72 L269.00,440.72 Z" fill="url(#d24hatch)" fill-rule="evenodd" stroke="#977850" stroke-width="1"/>
+ <path d="M177.82,406.20 L177.82,374.76 L180.54,374.76 L183.25,374.76 L225.16,374.76 L267.06,374.76 L267.06,344.33 L267.06,344.33 L267.06,344.22 L267.06,344.20 L267.06,343.94 L267.06,343.93 L267.06,326.65 L265.51,326.65 L263.96,326.65 L263.96,323.54 L263.96,320.44 L223.60,320.44 L183.25,320.44 L183.25,302.18 L183.25,283.00 L205.87,283.00 L207.29,283.00 L208.47,283.00 L222.44,283.00 L236.41,283.00 L236.64,283.00 L236.93,283.00 L237.30,283.00 L237.51,283.00 L237.79,283.00 L241.45,283.00 L241.45,280.48 L241.45,277.98 L241.45,277.15 L241.45,274.68 L241.45,272.65 L241.45,270.00 L241.45,267.35 L241.45,265.32 L241.45,262.85 L241.45,262.02 L241.45,259.52 L241.45,257.00 L237.79,257.00 L237.51,257.00 L237.30,257.00 L236.93,257.00 L236.64,257.00 L236.41,257.00 L222.44,257.00 L208.47,257.00 L207.29,257.00 L205.87,257.00 L183.25,257.00 L183.25,237.82 L183.25,219.56 L223.60,219.56 L263.96,219.56 L263.96,216.46 L263.96,213.35 L265.51,213.35 L267.06,213.35 L267.06,196.07 L267.06,196.06 L267.06,195.80 L267.06,195.78 L267.06,195.67 L267.06,195.67 L267.06,165.24 L225.16,165.24 L183.25,165.24 L180.54,165.24 L177.82,165.24 L177.82,167.39 L177.82,168.96 L177.82,169.61 L177.82,171.33 L177.82,173.00 L117.68,173.00 L117.68,440.72 L177.82,440.72 Z" fill="#4b5c54" stroke="#35483d" stroke-width=".75" fill-rule="evenodd"/><path d="M222.44,223.44H282.58v4H222.44 M222.44,316.56H282.58v-4H222.44" fill="#9bb0a6" stroke="#5a7568" stroke-width=".8"/><path d="M383.58,270.0h55" stroke="#8da799" stroke-width="32"/><path d="M282.58,134.20q14,-2 26,0h61q16,0 16,16v239.60q0,16 -16,16h-61q-13,0 -26,-2z" fill="#bad1c3" stroke="#718a7b" stroke-width="1.4"/>
+ <path d="M269.0 100V434" stroke="#347856" stroke-width="1.9" stroke-dasharray="4 5"/>
+ <path d="M210.80 132.26H269.0 M210.80 127.26v10 M269.0 127.26v10" fill="none" stroke="#614c31" stroke-width="1.5"/>
+ </g>
+ <text x="46" y="120" class="ey" text-anchor="start">ВСЕРЕДИНІ</text><text x="411" y="120" class="ey" text-anchor="end">ЗОВНІ</text>
+ <text x="456" y="126" class="name" text-anchor="start">Зовнішнє лице</text>
+ <text x="456" y="150" class="note" text-anchor="start">Зелений пунктир — площина,</text><text x="456" y="168" class="note" text-anchor="start">яка лежить на столі при друці.</text>
+ <text x="456" y="204" class="name" text-anchor="start">1,50 мм пластику</text>
+ <text x="456" y="227" class="note" text-anchor="start">Від лиця вглиб корпуса,</text><text x="456" y="245" class="note" text-anchor="start">виміряно на перерізі CAD.</text>
+ <text x="456" y="283" class="name" text-anchor="start">Передня кромка TB</text>
+ <text x="456" y="307" class="note" text-anchor="start">0,05 мм за лицем у моделі.</text>
+ <text x="456" y="347" class="name" text-anchor="start">Плече кабелю</text>
+ <text x="456" y="371" class="note" text-anchor="start">Світло-зеленим — приклад</text><text x="456" y="389" class="note" text-anchor="start">штекера. Широка частина зовні;</text><text x="456" y="407" class="note" text-anchor="start">її відступ залежить від кабелю.</text>
+ <path d="M30 453H730" stroke="#bdc8bc"/>
+ <text x="30" y="477" class="ey" text-anchor="start">ТОРЕЦЬ ВІДНОСНО ЛИЦЯ   /   «+» НАЗОВНІ   /   НОМІНАЛ CAD</text>
+ <text x="30" y="513" class="label" text-anchor="start">USB-A, HDMI, RJ, аудіо</text><text x="196" y="514" class="big" text-anchor="start">+0,05 мм</text>
+ <text x="338" y="513" class="label" text-anchor="start">TB ×2</text><text x="397" y="514" class="big" text-anchor="start">−0,05 мм</text>
+ <text x="544" y="513" class="label" text-anchor="start">PD IN*</text><text x="620" y="514" class="big" text-anchor="start">0,00 мм</text>
+ <text x="513" y="532" class="note" text-anchor="start">* положення модуля — припущення</text>
+</svg>
